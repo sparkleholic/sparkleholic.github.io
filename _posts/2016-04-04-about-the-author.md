@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
+author: "Junil Kim"
 categories: facts
-tags: [sample]
-image: cuba-4.jpg
+tags: [about me]
+image: trees_5.jpg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+Hi there, I'm Junil. I am a SW Engineer and the father of one child. I have a cat and love to listen to music on rainy days.
+I like new IT products and enjoy learning new technologies.
+    
