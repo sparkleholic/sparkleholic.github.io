@@ -1,6 +1,12 @@
 ---
 layout: misc
 title: About
+image: 15.gif
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Everything passes by in an instant. I feel like myself from yesterday and me from this moment like a different person. But there are some things that don't change.
+I am a dad who loves my children, and I am the husband of my loving wife.
+I live my life as a SW engineer and love this job. 
+
+This site is made by Millennial which is a minimalist Jekyll them.
+For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
